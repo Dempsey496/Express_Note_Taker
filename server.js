@@ -48,9 +48,6 @@ app.post("/api/notes", (req, res) => {
   });
 });
 
-// var lists = list.filter(x => {
-//     return x.Id != id;
-  
 app.delete("/api/notes/:id", (req, res) => {
     fs.readFile("./db/db.json", (err, data) => {
         if (err) throw err;
