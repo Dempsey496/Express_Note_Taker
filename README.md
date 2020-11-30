@@ -36,7 +36,7 @@ Application should allow users to delete previously saved notes.
 4. Once the packages finish downloading, simply type: `node server.js` into the CLI.
 5. Type "localhost:3000" into your webbrowser once server is running.
 # OR
-* Visit: 
+* Visit: https://still-river-50663.herokuapp.com/
 
 ***
 <a name="scrshot"></a>
