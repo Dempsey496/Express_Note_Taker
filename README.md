@@ -45,7 +45,7 @@ Application should allow users to delete previously saved notes.
 ![Note Taker Homepage](./assets/noteTakerApp.png)
 ![Note Taker Notepad](./assets/noteTakerApp2.png)
 ***
-![Site through localhost](https://drive.google.com/file/d/1Spr2Da2Hp9svHxlmuhcO8B2TUZmPvnuG/view)
+[Site through localhost](https://drive.google.com/file/d/1Spr2Da2Hp9svHxlmuhcO8B2TUZmPvnuG/view)
 ***
 
 <a name="tech"></a>
